@@ -176,7 +176,7 @@ i:hover{
     position:absolute;
     bottom:86%;
     background-color: white;
-    box-shadow: white 2px 3px 6px;
+    box-shadow: 2px 3px 6px;
 }
 
 #dark{
@@ -204,7 +204,6 @@ i:hover{
 }
 
 .card__container__descripcion_producto ul li ul li{
-    background: rgb(247,247,249);
     box-shadow:none;
 }
 
